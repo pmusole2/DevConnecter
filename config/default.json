@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://pmusole2:P00778292@devconnector-twfig.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
+}
