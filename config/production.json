@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://pmusole2:P00778292@devconnector-twfig.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "9fb4cf00c3f17898548a",
+  "githubClientSecret": "9a600db99f0bcc1d5cddfa005591d1029521c649"
+}
